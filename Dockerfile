@@ -1,1 +1,1 @@
-FROM quay.io/prometheus/alertmanager:v0.16.2
+FROM quay.io/prometheus/alertmanager:v0.17.0
